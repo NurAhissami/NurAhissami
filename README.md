@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 🤔 Quién soy..
-[<img align="left" src="https://github.com/NurAhissami/NurAhissami/blob/master/images/nur-image.png" width="200px">][website]
+[<img align="left" src="https://raw.githubusercontent.com/NurAhissami/NurAhissami/main/images/nur-image.png " width="200px">][website]
 
 Soy **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
