@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 # ¡Hola! Soy [Nur][website], bienvenida a mi repo! 😄
 
 
-### 🤔 Quién soy..
+### 🤔 Who I am...
 [<img align="right" src="https://raw.githubusercontent.com/NurAhissami/NurAhissami/main/images/nur-image.png " width="200px">][website]
 
-Soy **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
+I'm a **junior Front-end developer.** I love learning new things and keep training myself in the programming field.
 
-He terminado el programa de **Adalab** y tengo muchas ganas de seguir aprendiendo de este nuevo mundo. 
+I have finished the Adalab program and I am eager to keep learning about this new world.
 
-Soy una persona **resolutiva**, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo.
+I am a resolute, cheerful, motivated person, used to working in a team and eager to work and keep learning.
 
 <br>
 <br>
 
-### 📚 Conocimientos..
+### 📚 Knowledge...
 
-##### Programación 
+##### Programming 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -58,7 +58,7 @@ Soy una persona **resolutiva**, alegre, motivada, habituada a trabajar en equipo
 
 
 
-##### Diseño
+##### Design
 
 <img align="left" alt="AutoCad" width="50px" src="https://1000marcas.net/wp-content/uploads/2020/01/AutoCAD-Logo.png" />
 
@@ -78,7 +78,7 @@ Soy una persona **resolutiva**, alegre, motivada, habituada a trabajar en equipo
 <br>
 
 
-##### Herramientas
+##### Tools
 
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
@@ -99,9 +99,9 @@ Soy una persona **resolutiva**, alegre, motivada, habituada a trabajar en equipo
 
 ---
 
-### 💬 Contacto:
+### 💬 Contact:
 
-Puedes contactar conmigo en nurahi10@gmail.com
+You can contact me at nurahi10@gmail.com
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nur-ahissami-1a7b24157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur ahissami" height="20" width="40" /> Nur Ahissami</a>
