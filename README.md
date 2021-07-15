@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# ¡Hola! Soy [Nur][website], bienvenida a mi repo! 😄
+# ¡Hello! I'm [Nur][website], welcome to my repo! 😄
 
 
 ### 🤔 Who I am...
