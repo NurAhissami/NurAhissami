@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🤔 Who I am...
 [<img align="right" src="https://raw.githubusercontent.com/NurAhissami/NurAhissami/main/images/nur-image.png " width="200px">][website]
 
-I'm a **junior Front-end developer.** I love learning new things and keep training myself in the programming field.
+I'm a **Front-end developer.** I love learning new things and keep training myself in the programming field.
 
 I have finished the Adalab program and I am eager to keep learning about this new world.
 
