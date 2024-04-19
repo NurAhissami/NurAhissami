@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ### 🤔 Who I am...
 [<img align="right" src="https://raw.githubusercontent.com/NurAhissami/NurAhissami/main/images/nur-image.png " width="200px">][website]
 
-I’m Nur Ahissami.
-
 Front-end developer with three years of experience. I am cheerful, positive, and empathetic, and I feel comfortable working in teams, creating an atmosphere of trust and fostering collaboration. My ability to adapt to changes and my meticulous approach as a designer have allowed me to excel in my work. I enjoy solving problems and facing new challenges with determination and motivation.
 
 In addition to my commitment to professional growth, I am expanding my skills by learning Java to explore backend development.
