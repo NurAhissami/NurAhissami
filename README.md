@@ -29,8 +29,6 @@ In addition to my commitment to professional growth, I am expanding my skills by
 
 I actively participate as a mentor in Step4ward, a community of women in Span that helps other women in the sector to start or continue their professional careers.
 
-![image](https://github.com/NurAhissami/NurAhissami/assets/80348550/c53fc8ff-d314-4034-8d35-fe66a30c505f)
-
 <br>
 <br>
 
