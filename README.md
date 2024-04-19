@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 ### 🤔 Who I am...
 [<img align="right" src="https://raw.githubusercontent.com/NurAhissami/NurAhissami/main/images/nur-image.png " width="200px">][website]
 
-I'm a **Front-end developer.** I love learning new things and keep training myself in the programming field.
+I’m Nur Ahissami.
 
-I have finished the Adalab program and I am eager to keep learning about this new world.
+Front-end developer with three years of experience. I am cheerful, positive, and empathetic, and I feel comfortable working in teams, creating an atmosphere of trust and fostering collaboration. My ability to adapt to changes and my meticulous approach as a designer have allowed me to excel in my work. I enjoy solving problems and facing new challenges with determination and motivation.
 
-I am a resolute, cheerful, motivated person, used to working in a team and eager to work and keep learning.
+In addition to my commitment to professional growth, I am expanding my skills by learning Java to explore backend development.
+
+I actively participate as a mentor in Step4ward, a community of women in Span that helps other women in the sector to start or continue their professional careers.
+
+![image](https://github.com/NurAhissami/NurAhissami/assets/80348550/c53fc8ff-d314-4034-8d35-fe66a30c505f)
 
 <br>
 <br>
